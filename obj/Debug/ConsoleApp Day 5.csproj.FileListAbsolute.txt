@@ -1,0 +1,8 @@
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\bin\Debug\ConsoleApp Day 5.exe.config
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\bin\Debug\ConsoleApp Day 5.exe
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\bin\Debug\ConsoleApp Day 5.pdb
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\obj\Debug\ConsoleApp Day 5.csproj.AssemblyReference.cache
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\obj\Debug\ConsoleApp Day 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\obj\Debug\ConsoleApp Day 5.csproj.CoreCompileInputs.cache
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\obj\Debug\ConsoleApp Day 5.exe
+C:\Users\JEEVA\source\repos\ConsoleApp Day 5\ConsoleApp Day 5\obj\Debug\ConsoleApp Day 5.pdb
